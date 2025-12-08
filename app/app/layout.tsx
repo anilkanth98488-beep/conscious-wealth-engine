@@ -1,8 +1,7 @@
-// app/layout.tsx
-import type { Metadata } from "next";
+import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "The Deva Protocol",
+  title: 'The Deva Protocol',
   description: "The World's First AI for Financial Clarity & Cosmic Awareness.",
 };
 
